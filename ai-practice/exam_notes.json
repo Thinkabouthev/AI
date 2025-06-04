@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "heading": "Vector Spaces",
+    "summary": "Spaces where operations of vector addition and scalar multiplication obey specific axioms",
+    "page_ref": 112
+  },
+  {
+    "id": 2,
+    "heading": "Matrix Multiplication",
+    "summary": "Combining rows and columns of matrices to produce a new matrix",
+    "page_ref": 30
+  },
+  {
+    "id": 3,
+    "heading": "Invertible Matrices",
+    "summary": "Matrices that have an inverse, allowing the original matrix to be recreated",
+    "page_ref": 34
+  },
+  {
+    "id": 4,
+    "heading": "Linear Mappings",
+    "summary": "Functions between vector spaces that preserve vector addition and scalar multiplication",
+    "page_ref": 164
+  },
+  {
+    "id": 5,
+    "heading": "Gaussian Elimination",
+    "summary": "A method for solving systems of linear equations through the use of row operations",
+    "page_ref": 61
+  },
+  {
+    "id": 6,
+    "heading": "Eigenvalues and Eigenvectors",
+    "summary": "Special values and vectors associated with matrices that represent certain behavior",
+    "page_ref": 296
+  },
+  {
+    "id": 7,
+    "heading": "Determinants",
+    "summary": "A scalar value that can be computed from a square matrix and provides important information about the matrix",
+    "page_ref": 63
+  },
+  {
+    "id": 8,
+    "heading": "Orthogonal Matrices",
+    "summary": "Matrices whose rows and columns are orthonormal vectors",
+    "page_ref": 237
+  },
+  {
+    "id": 9,
+    "heading": "Kernel and Image of a Linear Mapping",
+    "summary": "The null space and range of a linear mapping, respectively",
+    "page_ref": 164
+  },
+  {
+    "id": 10,
+    "heading": "Transformation Matrices",
+    "summary": "Matrices representing linear transformations operating on vector spaces",
+    "page_ref": 167
+  }
+]

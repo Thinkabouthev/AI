@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "heading": "Linear Equations",
+    "summary": "Fundamental concepts in solving systems of linear equations.",
+    "page_ref": 58
+  },
+  {
+    "id": 2,
+    "heading": "Matrix Multiplication",
+    "summary": "Operations and properties of multiplying matrices.",
+    "page_ref": 30
+  },
+  {
+    "id": 3,
+    "heading": "Invertible Matrices",
+    "summary": "Characteristics and applications of invertible matrices.",
+    "page_ref": 34
+  },
+  {
+    "id": 4,
+    "heading": "Eigenvalues and Eigenvectors",
+    "summary": "Importance of eigenvalues and eigenvectors in linear transformations.",
+    "page_ref": 296
+  },
+  {
+    "id": 5,
+    "heading": "Orthogonal Matrices",
+    "summary": "Properties and applications of orthogonal matrices.",
+    "page_ref": 237
+  },
+  {
+    "id": 6,
+    "heading": "Gaussian Elimination",
+    "summary": "Method for solving systems of linear equations by row operations.",
+    "page_ref": 61
+  },
+  {
+    "id": 7,
+    "heading": "Homogeneous Systems",
+    "summary": "Understanding and solving homogeneous systems of linear equations.",
+    "page_ref": 58
+  },
+  {
+    "id": 8,
+    "heading": "Linear Independence",
+    "summary": "Key concepts and examples related to linearly independent vectors.",
+    "page_ref": null
+  },
+  {
+    "id": 9,
+    "heading": "Kernel and Image",
+    "summary": "Properties and significance of the kernel and image of a linear transformation.",
+    "page_ref": 164
+  },
+  {
+    "id": 10,
+    "heading": "Diagonalization",
+    "summary": "Process and implications of diagonalizing matrices and linear transformations.",
+    "page_ref": null
+  }
+]
