@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+langchain==0.1.17
+langchain-core==0.1.33
+langchain-google-genai==1.0.3
+google-generativeai==0.5.4
